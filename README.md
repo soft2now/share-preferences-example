@@ -3,8 +3,8 @@
 
 - require:
 
-  provider:
-  shared_preferences:
+  dependencies:
+    shared_preferences:
 
 
 Copy and paste on pubspec.yaml
